@@ -22,4 +22,4 @@ No. You can turn photos into line drawings and preview them without a machine. Y
 Yes. Once the drawing has finished transferring, the machine completes it on its own.
 
 **Are my photos uploaded anywhere?**
-No. All processing happens on your phone. See the [privacy policy](privacy.html).
+No. All processing happens on your phone. See the [privacy policy](privacy.md).
